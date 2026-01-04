@@ -27,24 +27,42 @@ We operate exclusively via **Discord**, utilizing ephemeral ticket systems to co
 
 We utilize a "Double-Blind Drop" system. The Mediator is the only entity that interacts with both parties.
 
-## 💵 Funds Verification Protocol
+##The Workflow
+1. Ticket Creation A user opens a "Transaction Ticket" on the Zero Identity Discord.
 
-To protect the Seller, the Mediator enforces a strict verification process at the time of the exchange.
+2. The Agreement The Buyer and Seller are added to separate, private channels within the ticket. They never speak directly. The Mediator relays the price, item condition, and terms.
 
-**1. On-Site Authentication**
-The Mediator brings counterfeit detection tools (UV lights, detector pens, or cash counting machines depending on transaction volume) to the meetup.
-* **Step 1:** Cash is counted in front of the Buyer.
-* **Step 2:** Bills are scanned for authenticity.
+3. The Verification
 
-**2. Handling Discrepancies**
-* **Insufficient Funds:** If the cash amount is lower than the agreed price, the Buyer has **5 minutes** to produce the difference. If they cannot, the transaction is voided.
-* **Counterfeit Detection:** If fake currency is detected, the transaction is **immediately terminated**. The Buyer will be permanently banned from the Zero Identity platform.
+Seller: Submits proof of ownership (timestamped photo).
 
-**3. Asset Protection (The Fail-Safe)**
-If the transaction fails due to payment issues:
-1.   The Mediator **retains custody** of the item.
-2.   The Buyer leaves empty-handed.
-3.   The Mediator opens a new ticket with the Seller to arrange the return of the goods.
+Buyer: Submits proof of funds.
+
+4. The Exchange (The "Drop") The Mediator designates a secure public location.
+
+Phase 1: Seller meets Mediator, hands over goods, and leaves.
+
+Phase 2: Mediator validates goods against description.
+
+Phase 3: Buyer meets Mediator, hands over funds, receives goods.
+
+Phase 4: Mediator transfers funds to Seller (via Crypto or Cash Drop depending on arrangement).
+
+##💵 Funds Verification Protocol
+To ensure the integrity of the transaction during Phase 3, the Mediator enforces the following:
+
+On-Site Authentication: All cash is counted and scanned (UV/Pen test) in front of the Buyer before the item is released.
+
+Insufficient Funds: If the cash provided is less than the agreed price, the Buyer has 5 minutes to produce the difference. If they cannot, the transaction is voided.
+
+Counterfeit Detection: If fake currency is detected, the transaction is immediately terminated. The item is retained by the Mediator to be returned to the Seller.
+
+##🛡️ Security & Privacy
+No Logs Policy: Once a transaction ticket is closed, all chat history is purged from our end.
+
+Discord Only: No phone numbers, emails, or real names are ever requested.
+
+Physical Buffer: The Buyer and Seller are never at the same place at the same time. Zero Identity absorbs the risk of physical interaction.
 
 *Note: The item is NEVER handed to the Buyer until the full agreed amount is verified genuine and complete.*
 
