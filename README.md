@@ -27,6 +27,27 @@ We operate exclusively via **Discord**, utilizing ephemeral ticket systems to co
 
 We utilize a "Double-Blind Drop" system. The Mediator is the only entity that interacts with both parties.
 
+## 💵 Funds Verification Protocol
+
+To protect the Seller, the Mediator enforces a strict verification process at the time of the exchange.
+
+**1. On-Site Authentication**
+The Mediator brings counterfeit detection tools (UV lights, detector pens, or cash counting machines depending on transaction volume) to the meetup.
+* **Step 1:** Cash is counted in front of the Buyer.
+* **Step 2:** Bills are scanned for authenticity.
+
+**2. Handling Discrepancies**
+* **Insufficient Funds:** If the cash amount is lower than the agreed price, the Buyer has **5 minutes** to produce the difference. If they cannot, the transaction is voided.
+* **Counterfeit Detection:** If fake currency is detected, the transaction is **immediately terminated**. The Buyer will be permanently banned from the Zero Identity platform.
+
+**3. Asset Protection (The Fail-Safe)**
+If the transaction fails due to payment issues:
+1.   The Mediator **retains custody** of the item.
+2.   The Buyer leaves empty-handed.
+3.   The Mediator opens a new ticket with the Seller to arrange the return of the goods.
+
+*Note: The item is NEVER handed to the Buyer until the full agreed amount is verified genuine and complete.*
+
 ```mermaid
 sequenceDiagram
     participant B as Buyer (0-ID)
@@ -48,3 +69,6 @@ sequenceDiagram
     M-->>B: Verifies Payment & Handoffs Item
     
     Note over B,S: Transaction Complete. Ticket Deleted.
+
+
+
