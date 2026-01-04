@@ -57,27 +57,6 @@ Insufficient Funds: If the cash provided is less than the agreed price, the Buye
 
 Counterfeit Detection: If fake currency is detected, the transaction is immediately terminated. The item is retained by the Mediator to be returned to the Seller.
 
-## 🛡️ Security & Privacy
-No Logs Policy: Once a transaction ticket is closed, all chat history is purged from our end.
-
-Discord Only: No phone numbers, emails, or real names are ever requested.
-
-Physical Buffer: The Buyer and Seller are never at the same place at the same time. Zero Identity absorbs the risk of physical interaction.
-
-*Note: The item is NEVER handed to the Buyer until the full agreed amount is verified genuine and complete.*
-
-## 💻 Commands
-
-Use the following slash commands within the Discord server to interact with the bot:
-
-```bash
-/initiate       # Opens a new mediation request ticket
-/escrow-status  # Checks the current status of funds and goods
-/emergency      # Sends an immediate alert to the Mediator
-/help           # Displays the full list of available commands
-
-----
-
 ```mermaid
 sequenceDiagram
     participant B as Buyer (0-ID)
@@ -99,5 +78,28 @@ sequenceDiagram
     M-->>B: Verifies Payment & Handoffs Item
     
     Note over B,S: Transaction Complete. Ticket Deleted.
+```
+
+## 💻 Commands
+
+Use the following slash commands within the Discord server to interact with the bot:
+
+```bash
+/initiate       # Opens a new mediation request ticket
+/escrow-status  # Checks the current status of funds and goods
+/emergency      # Sends an immediate alert to the Mediator
+/help           # Displays the full list of available commands
+
+```
+
+
+## 🛡️ Security & Privacy
+No Logs Policy: Once a transaction ticket is closed, all chat history is purged from our end.
+
+Discord Only: No phone numbers, emails, or real names are ever requested.
+
+Physical Buffer: The Buyer and Seller are never at the same place at the same time. Zero Identity absorbs the risk of physical interaction.
+
+*Note: The item is NEVER handed to the Buyer until the full agreed amount is verified genuine and complete.*
 
 
