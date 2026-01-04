@@ -102,4 +102,38 @@ Physical Buffer: The Buyer and Seller are never at the same place at the same ti
 
 *Note: The item is NEVER handed to the Buyer until the full agreed amount is verified genuine and complete.*
 
+## 💰 Fees
+```bash
+Service Type,Rate,Notes
+Standard Service,5%,Calculated on transaction value. Paid by Buyer.
+Priority Drop,10%,Rush service for immediate drops.
+Minimum Fee,$50,Or local currency equivalent.
+```
+
+## ⚠️ Terms of Service (ToS)
+By using Zero Identity, you agree to the following strict guidelines. Violation results in an immediate ban and blacklist.
+
+1. Prohibited Items
+Zero Identity acts as a privacy shield, not a shield for crime. We DO NOT mediate transactions involving:
+
+Narcotics or controlled substances.
+
+Firearms, explosives, or ammunition.
+
+Stolen property.
+
+Human trafficking or exploitation materials.
+
+Any item deemed illegal in the local jurisdiction of the physical drop.
+
+2. Liability
+Zero Identity is a mediation service. While we verify items to the best of our ability during the physical handover, we are not responsible for latent defects discovered after the transaction is closed.
+
+3. The "No-Show" Policy
+If a party fails to appear at the promised location within 15 minutes:
+
+Seller No-Show: Deal cancelled.
+
+Buyer No-Show: Deal cancelled, item returned to Seller. A penalty fee may apply for future services.
+
 
