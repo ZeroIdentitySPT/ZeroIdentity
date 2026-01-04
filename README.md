@@ -27,7 +27,7 @@ We operate exclusively via **Discord**, utilizing ephemeral ticket systems to co
 
 We utilize a "Double-Blind Drop" system. The Mediator is the only entity that interacts with both parties.
 
-##The Workflow
+## The Workflow
 1. Ticket Creation A user opens a "Transaction Ticket" on the Zero Identity Discord.
 
 2. The Agreement The Buyer and Seller are added to separate, private channels within the ticket. They never speak directly. The Mediator relays the price, item condition, and terms.
@@ -48,7 +48,7 @@ Phase 3: Buyer meets Mediator, hands over funds, receives goods.
 
 Phase 4: Mediator transfers funds to Seller (via Crypto or Cash Drop depending on arrangement).
 
-##💵 Funds Verification Protocol
+## 💵 Funds Verification Protocol
 To ensure the integrity of the transaction during Phase 3, the Mediator enforces the following:
 
 On-Site Authentication: All cash is counted and scanned (UV/Pen test) in front of the Buyer before the item is released.
@@ -57,7 +57,7 @@ Insufficient Funds: If the cash provided is less than the agreed price, the Buye
 
 Counterfeit Detection: If fake currency is detected, the transaction is immediately terminated. The item is retained by the Mediator to be returned to the Seller.
 
-##🛡️ Security & Privacy
+## 🛡️ Security & Privacy
 No Logs Policy: Once a transaction ticket is closed, all chat history is purged from our end.
 
 Discord Only: No phone numbers, emails, or real names are ever requested.
