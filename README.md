@@ -2,15 +2,16 @@
 
 <div align="center">
   <h3>The Invisible Bridge. Total Anonymity. Absolute Trust.</h3>
-  <p>A decentralized, anonymous mediation service for physical peer-to-peer transactions.</p>
   <p>
-    <a href="#⚙️-How-It-Works">How It Works</a> •
-    <a href="#💵-Funds-Verification-Protocol">The Protocol</a> •
+    Zero Identity acts as the invisible bridge for anonymous physical transactions. We facilitate blind peer-to-peer exchanges via Discord, ensuring Buyer and Seller never meet. The mediator handles goods and funds verification at a neutral drop point.
+  </p>
+  <p>
+    <a href="#how-it-works">Workflow</a> •
+    <a href="#funds-verification-protocol">Funds Verification</a> •
     <a href="#discord-integration">Discord</a> •
-    <a href="#⚠️-Terms-of-Service-(ToS)">Terms of Service</a>
+    <a href="#terms-of-service-tos">ToS</a>
   </p>
 </div>
-
 ---
 
 ## 👁️ About Zero Identity
