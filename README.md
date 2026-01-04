@@ -4,10 +4,10 @@
   <h3>The Invisible Bridge. Total Anonymity. Absolute Trust.</h3>
   <p>A decentralized, anonymous mediation service for physical peer-to-peer transactions.</p>
   <p>
-    <a href="#how-it-works">How It Works</a> •
-    <a href="#the-protocol">The Protocol</a> •
+    <a href="#⚙️-How-It-Works">How It Works</a> •
+    <a href="#💵-Funds-Verification-Protocol">The Protocol</a> •
     <a href="#discord-integration">Discord</a> •
-    <a href="#tos">Terms of Service</a>
+    <a href="#⚠️-Terms-of-Service-(ToS)">Terms of Service</a>
   </p>
 </div>
 
@@ -104,10 +104,11 @@ Physical Buffer: The Buyer and Seller are never at the same place at the same ti
 
 ## 💰 Fees
 ```bash
-Service Type,Rate,Notes
-Standard Service,5%,Calculated on transaction value. Paid by Buyer.
-Priority Drop,10%,Rush service for immediate drops.
-Minimum Fee,$50,Or local currency equivalent.
+| Service Type | Rate | Notes |
+| :--- | :---: | :--- |
+| **Standard Service** | 5% | Calculated on total transaction value. |
+| **Priority Drop** | 10% | Rush service for immediate drops. |
+| **Minimum Fee** | $50 | Flat fee for small items. |
 ```
 
 ## ⚠️ Terms of Service (ToS)
